@@ -3,7 +3,8 @@
 This is a simple ticket viewer for viewing Zendesk tickets.
 
 ## Installation
-Make sure you are using Python 3.7.+
+Make sure you are using ```Python 3.7.+```
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the dependency.
 
 ```bash
